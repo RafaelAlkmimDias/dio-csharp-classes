@@ -1,0 +1,1 @@
+# código educacional mostrado no curso de introdução a c# e .net do digital innovation one mostrando detalhes sobre classes e heranças além de formas interessantes de se fazer metodos
